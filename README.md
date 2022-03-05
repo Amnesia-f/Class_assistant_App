@@ -71,11 +71,11 @@
 
 ## 服务支持
 
-编写支持：[MIT AppInventor2 Wxbit](app.wxbit.com)
+编写支持：[MIT AppInventor Wxbit](app.wxbit.com)
 
-云端数据库：[TinyWebDB网络微数据库](tinywebdb.appinventor.space)
+云端数据库：[TinyWebDB 网络微数据库](tinywebdb.appinventor.space)
 
-App内图标：[iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn/)
+App内图标：[iconfont - 阿里巴巴矢量图标库](https://www.iconfont.cn/)
 
 ## 相关信息
 
