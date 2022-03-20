@@ -20,7 +20,7 @@
 
 据我所知，市面上也是有类似于班级管理功能的App或PC端软件，
 
-经过我对其他同类产品的实际体验，我对原有功能进行了大量改进，并加入其他软件未有之功能：
+经过我对其他同类产品的实际体验，在其原有功能的基础上加以改进及创新，对比总结得出班级管理助手的优势：
 
 1.支持直接调用学生数据，不必老师手动导入数据。
 
@@ -86,13 +86,23 @@
 
 4. 添加统计学生回答问题正误次数的功能；
 
+## 使用扩展
+
+- [io.mohamed.CustomSpotlight.aix](https://community.kodular.io/t/f-os-custom-spotlight-extension/111632)（聚光灯）
+
+- [com.sumit1334.fetchdownloader.aix](https://community.kodular.io/t/free-fetch-a-powerful-and-simple-download-tool/171951)（下载更新）
+
+- [com.sunny.Net.aix](https://community.appinventor.mit.edu/t/net-get-some-information-about-network/10670?u=taifun)（检测网络状态）
+
 ## 服务支持
 
 编写支持：[MIT AppInventor Wxbit](app.wxbit.com)
 
+扩展来源：[Kodular Community](https://community.kodular.io/)
+
 云端数据库：[TinyWebDB 网络微数据库](tinywebdb.appinventor.space)
 
-App内图标：[iconfont - 阿里巴巴矢量图标库](https://www.iconfont.cn/)
+图标来源：[iconfont - 阿里巴巴矢量图标库](https://www.iconfont.cn/)
 
 ## 相关信息
 
